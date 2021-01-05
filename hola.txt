@@ -1,16 +1,12 @@
 hola
-<<<<<<< HEAD
 mundo
-=======
+
 universidad nacional
->>>>>>> 50c071f09cdb605f1db3743852d4fd7e01fc48f8
 
-<<<<<<< HEAD
-
-
+alvaro pacompia
 
 KLEYSON....
 YO AUMENTE ESTA PARTE
-=======
-alvaro pacompia
->>>>>>> 7b33c0b151175e9aa80c9f093a39ddd019833279
+
+
+
