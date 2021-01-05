@@ -1,2 +1,6 @@
 hola
+<<<<<<< HEAD
 mundo
+=======
+universidad nacional
+>>>>>>> 50c071f09cdb605f1db3743852d4fd7e01fc48f8
